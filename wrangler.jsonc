@@ -34,6 +34,7 @@
     {
       "binding": "R2",
       "bucket_name": "navfox",
+      "preview_bucket_name": "navfox",
     },
     // Create a R2 binding with the binding name "NEXT_INC_CACHE_R2_BUCKET"
     // {
